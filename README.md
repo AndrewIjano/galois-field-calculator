@@ -1,2 +1,2 @@
-# galois-field-calculator
+# Galois Field Calculator
 Implements a simple Galois Field calculator
